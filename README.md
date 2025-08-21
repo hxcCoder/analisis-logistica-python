@@ -1,3 +1,18 @@
+# 📊 Análisis de Datos de Logística
+
+## 📋 Resumen del Proyecto
+
+Este proyecto es un análisis de datos completo para una empresa de logística. Utilicé Python y la biblioteca pandas para procesar y limpiar datos de entregas, clientes y transportistas. El objetivo fue identificar las métricas clave de rendimiento (KPIs) y visualizar los resultados para ayudar a la empresa a tomar decisiones informadas.
+
+## 🚀 Habilidades Demostradas
+
+* **Python:** Utilización de scripts para automatizar el análisis de datos.
+* **Pandas:** Carga de datos, limpieza, manipulación (`.str.strip()`, `.str.lower()`) y unión de múltiples DataFrames (`pd.merge`).
+* **Análisis de Datos:** Cálculo de métricas como el tiempo de entrega promedio por región, el porcentaje de entregas por estado y el conteo de vehículos.
+* **Visualización de Datos:** Creación de gráficos claros y concisos utilizando `Matplotlib`.
+* **Gestión de Proyectos:** Organización del proyecto con una estructura de carpetas lógica (`data`, `outputs`) y manejo de errores de archivos.
+* **Habilidad de Depuración:** Superación de errores comunes como `KeyError`, lo que demuestra una sólida capacidad para resolver problemas de forma independiente.
+  
 ## 📈 Resultados del Análisis
 
 El script `analisis.py` procesa los datos y genera los siguientes resultados:
