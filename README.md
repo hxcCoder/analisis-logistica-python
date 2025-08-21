@@ -2,7 +2,7 @@
 
 ## 📋 Resumen del Proyecto
 
-Este proyecto es un análisis de datos completo para una empresa de logística. Utilicé Python y la biblioteca pandas para procesar y limpiar datos de entregas, clientes y transportistas. El objetivo fue identificar las métricas clave de rendimiento (KPIs) y visualizar los resultados para ayudar a la empresa a tomar decisiones informadas.
+Este proyecto es un análisis de datos completo para una empresa de logística. Utilicé Python y la biblioteca pandas para procesar y limpiar datos de entregas, clientes y transportistas. El objetivo fue identificar las métricas clave de rendimiento y visualizar los resultados para ayudar a tomar decisiones informadas.
 
 ## 🚀 Habilidades Demostradas
 
