@@ -4,7 +4,7 @@
 
 Este proyecto es un análisis de datos completo para una empresa de logística. Utilicé Python y la biblioteca pandas para procesar y limpiar datos de entregas, clientes y transportistas. El objetivo fue identificar las métricas clave de rendimiento y visualizar los resultados para ayudar a tomar decisiones informadas.
 
-## 🚀 Habilidades Demostradas
+## 🚀 Habilidades Tecnicas
 
 * **Python:** Utilización de scripts para automatizar el análisis de datos.
 * **Pandas:** Carga de datos, limpieza, manipulación (`.str.strip()`, `.str.lower()`) y unión de múltiples DataFrames (`pd.merge`).
